@@ -296,7 +296,7 @@ a.quiet.dark.active, a.quiet.dark:hover { color:rgba(255,255,255,0.5); }
 .button.fill-purple:hover,
 .button.loud.active,
 .button.loud:hover {
-  background-color:#a4a4e5;
+  background-color:#FFE0A9;
   }
 
 .button.quiet {
@@ -339,7 +339,7 @@ a.quiet.dark.active, a.quiet.dark:hover { color:rgba(255,255,255,0.5); }
   }
 .button.fill-purple.active,
 .button.fill-purple:hover {
-  background-color:#a4a4e5;
+  background-color:#FFE0A9;
   }
 .button.fill-denim.active,
 .button.fill-denim:hover {
@@ -403,8 +403,8 @@ a.quiet.dark.active, a.quiet.dark:hover { color:rgba(255,255,255,0.5); }
 }
 
 .button.stroke.loud:hover {
-  box-shadow: 0px 0px 0px 2px #a4a4e5 inset;
-  color: #a4a4e5;
+  box-shadow: 0px 0px 0px 2px #FFE0A9 inset;
+  color: #FFE0A9;
   background-color:transparent;
 }
 
@@ -586,7 +586,7 @@ a.quiet.dark.active, a.quiet.dark:hover { color:rgba(255,255,255,0.5); }
 .fill-navy .pill > *        { border-color:#28353d; }
 .fill-navy-dark .pill > *   { border-color:#222B30; }
 .fill-purple .pill > *      { border-color:#7e91ff; }
-.fill-midnight .pill > *    { border-color:#040528; }
+.fill-midnight .pill > *    { border-color:#78acdf; }
 .fill-darkblue .pill > *    { background-color:#223b53; }
 .fill-red .pill > *         { background-color:#e55e5e; }
 .fill-teal .pill > *        { background-color:#41afa5; }
@@ -709,7 +709,7 @@ a.quiet.dark.active, a.quiet.dark:hover { color:rgba(255,255,255,0.5); }
 .fill-blue .rounded-toggle input[type=radio]:checked + label,
 .fill-blue .rounded-toggle .active        { background:#3887be; }
 .fill-midnight .rounded-toggle input[type=radio]:checked + label,
-.fill-midnight .rounded-toggle .active        { background:#040528; }
+.fill-midnight .rounded-toggle .active        { background:#78acdf; }
 .fill-denim .rounded-toggle input[type=radio]:checked + label,
 .fill-denim .rounded-toggle .active       { background:#50667f; }
 .fill-navy .rounded-toggle input[type=radio]:checked + label,
@@ -1217,7 +1217,7 @@ input[type=range]:disabled { cursor: default; }
 .checkbox-pill input[type=checkbox]:not(:checked) + *:before { content: '';}
 .checkbox-pill input[type=checkbox]:checked + .button { background-color: #52a1d8;}
 .checkbox-pill input[type=checkbox]:checked + .button.quiet { background-color: rgba(0,0,0,.5);}
-.checkbox-pill input[type=checkbox]:checked + .button.loud { background-color: #a4a4e5;}
+.checkbox-pill input[type=checkbox]:checked + .button.loud { background-color: #FFE0A9;}
 .dark.checkbox-pill input[type=checkbox]:checked + .button.quiet,
 .dark .checkbox-pill input[type=checkbox]:checked + .button.quiet { background-color: rgba(255,255,255,0.25);}
 
@@ -1229,7 +1229,7 @@ input[type=range]:disabled { cursor: default; }
 .radio-pill input[type=radio]:not(:checked) + .button:before { width: 0;}
 .radio-pill input[type=radio]:checked + .button { background-color: #52a1d8;}
 .radio-pill input[type=radio]:checked + .button.quiet { background-color: rgba(0,0,0,.5);}
-.radio-pill input[type=radio]:checked + .button.loud { background-color: #a4a4e5;}
+.radio-pill input[type=radio]:checked + .button.loud { background-color: #FFE0A9;}
 .dark.radio-pill input[type=radio]:checked + .button.quiet,
 .dark .radio-pill input[type=radio]:checked + .button.quiet { background-color: rgba(255,255,255,0.25);}
 
@@ -2995,7 +2995,7 @@ Alternate exists for:
 /* deprecated, use fill-cyan */
 .fill-blue-light  { background:#52a1d8; }
 .fill-cyan        { background:#3bb2d0; }
-.fill-midnight    { background:#040528; }
+.fill-midnight    { background:#78acdf; }
 
 .fill-blue         { background:#3887be; }
 .fill-denim        { background:#50667f; }
