@@ -21,11 +21,11 @@ h6 {
 }
 
 h1.purple-text {
-    color: #7e91ff;
+    color: #3c3c3c;
 }
 
 .dark h2 span {
-    color: #B3BAE2;
+    color: #FFE0A8;
 }
 .uppercase {
     text-transform: uppercase;
@@ -53,7 +53,7 @@ a:focus {
     margin-bottom: 0;
     border-bottom: 1px solid rgba(255,255,255,.3);
     font-family: 'Varela Round',"Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: #040528;
+    background-color: #78acdf;
     font-weight: bold;
 }
 
@@ -85,7 +85,7 @@ a:focus {
     /*background-color: rgba(255,255,255,.05);*/
 }
 .navbar-custom .nav li.active  a {
-  /*color: #7E91FF;*/
+  /*color: #3c3c3c;*/
 }
 
 .navbar-custom .nav li a {
@@ -95,7 +95,7 @@ a:focus {
 }
 
 .navbar-custom .nav li a.active {
-    color: #7e91ff;
+    color: #3c3c3c;
 }
 
 .navbar-custom .nav li a:hover,
@@ -117,12 +117,12 @@ a:focus {
 
     .top-nav-collapse, .stay-collapsed {
         padding: 0;
-        background-color: #040528;
+        background-color: #78acdf;
     }
 
     .navbar-custom.top-nav-collapse {
       border-bottom: 1px solid rgba(110, 128, 228, 0.39);
-      background: #040528;
+      background: #78acdf;
     }
 }
 
@@ -392,7 +392,7 @@ body {
 }
 
 h3.small-title {
-    color: #7e91ff;
+    color: #3c3c3c;
     position: relative;
     margin-bottom: 25px;
     font-size: 20px;
@@ -404,7 +404,7 @@ h3.small-title:before {
     width: 30px;
     height: 3px;
     border-radius: 5px;
-    background-color: #7e91ff;
+    background-color: #3c3c3c;
     position: absolute;
     bottom: -13px;
     left: 0px;
@@ -425,7 +425,7 @@ p.varela {
     width: 100%;
     height: 2px;
     border-radius: 5px;
-    background-color: #FFE0A8;
+    background-color: #d01a5c;
     position: absolute;
     bottom: -9px;
     left: 0px;
@@ -433,7 +433,7 @@ p.varela {
 
 .icon.heart.icon-pink:before {
     content: "\e63e";
-    color: #FC306B;
+    color: #d01a5c;
     font-size: 33px;
     width: 33px;
     height: 33px;
@@ -449,7 +449,7 @@ input[type=email].dot-field  {
   background: white;
   border-color: #eee;
   border-color: rgba(255,255,255,0.25);
-  color: #7E91FF;
+  color: #3c3c3c;
   box-shadow: none;
   border-radius: 30px 0px 0px 30px;
   padding-left: 40px;
@@ -457,7 +457,7 @@ input[type=email].dot-field  {
 
 .dark textarea:focus, .dark input[type=password]:focus, .dark input[type=text]:focus, .dark input[type=date]:focus, .dark input[type=email]:focus, .dark input[type=number]:focus {
     border-color: rgba(255,255,255,0.75);
-    color: #7E91FF;
+    color: #3c3c3c;
 }
 
 .input-pill .dot-button {
@@ -468,7 +468,7 @@ input[type=email].dot-field  {
 }
 
 #newsletter .button:hover, .button.active {
-    background-color: #0B0C3E;
+    background-color: #599ddf;
 }
 
 input#mce-EMAIL::selection {
