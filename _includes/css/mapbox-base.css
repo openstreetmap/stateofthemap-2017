@@ -585,7 +585,7 @@ a.quiet.dark.active, a.quiet.dark:hover { color:rgba(255,255,255,0.5); }
 .fill-denim .pill > *       { border-color:#50667f; }
 .fill-navy .pill > *        { border-color:#28353d; }
 .fill-navy-dark .pill > *   { border-color:#222B30; }
-.fill-purple .pill > *      { border-color:#7e91ff; }
+.fill-purple .pill > *      { border-color:#FFE0A7; }
 .fill-midnight .pill > *    { border-color:#78acdf; }
 .fill-darkblue .pill > *    { background-color:#223b53; }
 .fill-red .pill > *         { background-color:#e55e5e; }
@@ -717,7 +717,7 @@ a.quiet.dark.active, a.quiet.dark:hover { color:rgba(255,255,255,0.5); }
 .fill-navy-dark .rounded-toggle input[type=radio]:checked + label,
 .fill-navy-dark .rounded-toggle .active   { background:#222B30; }
 .fill-purple .rounded-toggle input[type=radio]:checked + label,
-.fill-purple .rounded-toggle .active      { background:#7e91ff; }
+.fill-purple .rounded-toggle .active      { background:#FFE0A7; }
 .fill-green .rounded-toggle input[type=radio]:checked + label,
 .fill-green .rounded-toggle .active       { background:#56b881; }
 .fill-yellow .rounded-toggle input[type=radio]:checked + label,
@@ -3001,7 +3001,7 @@ Alternate exists for:
 .fill-denim        { background:#50667f; }
 .fill-navy         { background:#28353d; }
 .fill-navy-dark    { background:#222B30; }
-.fill-purple       { background:#7e91ff; }
+.fill-purple       { background:#FFE0A7; }
 .fill-purple-light { background: rgba(145, 168, 255, 0.15);}
 .fill-green        { background:#56b881; }
 .fill-yellow       { background:#f1f075; }
