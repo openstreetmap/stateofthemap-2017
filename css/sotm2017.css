@@ -1,3 +1,7 @@
+.home-logo img {
+   max-height: 300px;
+}
+
 #venue {
    background-color: #ffe5e5;
 }
