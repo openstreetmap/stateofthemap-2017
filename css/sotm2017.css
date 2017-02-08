@@ -1,0 +1,32 @@
+.home-logo img {
+   max-height: 300px;
+}
+
+#venue {
+   background-color: #ffe5e5;
+}
+
+.footer-logo {
+   float: left;
+   margin: 0% 5%;
+}
+
+.bottom-display {
+   height: 200px;
+}
+
+.col3 {
+   float: left;
+   width: 25%;
+   margin-bottom: 7%;
+}
+
+.list-inline {
+   padding-left: 10%;
+   font-size: 120%;
+}
+
+.copyright {
+   text-align: center;
+   width: 100%;
+}
