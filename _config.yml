@@ -2,14 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: STATE OF THE MAP 2017
-email: your-email@domain.com
-author: Your Name
-description: > # "Write an awesome description for your new site here.
-  You can edit this line in _config.yml. It will appear in your document
-  head meta (for Google search results) and in your feed.xml site
-  description.
+url: "http://2017.stateofthemap.org"
+title: State of the Map 2017
+email: info@stateofthemap.org
+description: "Join for three days of talks, discussions and workshops around the free and open map of the world."
 copyright: 'Copyright &copy; 2017'
 
 # ----------------------- #
@@ -19,15 +15,3 @@ copyright: 'Copyright &copy; 2017'
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-# ----------------------- #
-#   3rd Party Settings    #
-# ----------------------- #
-
-social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url:
