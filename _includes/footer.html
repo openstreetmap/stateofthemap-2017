@@ -1,27 +1,25 @@
-    <!-- Footer -->
-    <footer class="fill-midnight dark contain" id="footer">
-		<div class="limiter">
-		      <div class="pad2y clearfix">
-		        <div class="space-bottom1 col12  clearfix footer-links">
-		          <div class="col3 pad4x hide-mobile">
-		            {% include svg/logo-footer.svg %}
-		          </div>
-		          <nav class="col3 pad2">
-		            <a href="{{site.baseurl}}/program/" class="animate quiet block">Program</a>
-		            <p href="" class="animate quiet ">Venue</p>
-		          </nav>
-		          <nav class="col3 pad2">
-		            <p href="" class="animate quiet ">Scholarships</p>
-		            <p href="" class="animate quiet ">Social events</p>
-		          </nav>
-		          <nav class="col3 pad2">
-		            <a href="{{site.baseurl}}/codeofconduct/" class="animate quiet ">Code of conduct</a>
-		          </nav>
-		        </div>
-		      </div>
-		          <div class="center">
-     				   <p class="small quiet">Copyright &copy; {{ site.footer }} 20{{ site.time | date: '%y' }}</p>
-   				</div>
-		    </div>
-    </footer>
-
+<!-- Footer -->
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="footer-logo">
+               {% include svg/logo-footer.svg%}
+            </div>
+            <div class="col-md-8">
+                <div class="bottom-display">
+                   <ul class="list-inline">
+                       <li class="col3">
+                          <a href="#home">Home</a>
+                       </li>
+                       {% for nav_item in site.data.nav %}
+                          <li class="col3">
+                             <a href="{{ nva_item.link }}">{{ nav_item.name}}</a>
+                          </li>
+                       {% endfor %}
+                   </ul>
+                </div>
+                <p class="copyright text-muted small">{{ site.copyright }}</p>
+            </div>
+        </div>
+    </div>
+</footer>
