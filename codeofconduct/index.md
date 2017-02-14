@@ -1,6 +1,5 @@
 ---
 layout: page
-color: purple
 title: Code of conduct
 ---
 

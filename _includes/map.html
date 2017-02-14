@@ -1,28 +1,22 @@
-    <!-- Map Section -->
- <section class="map-container">
- <div id="mapbox-map"></div>
-
+ <section class='map-container'>
+  <div id='mapbox-map'>
+    <div class='pin-bottomright z10 pad1 fill-darken3'>
+      <a href='http://www.openstreetmap.org/about/' class='dark' target='_blank'>© OpenStreetMap contributors</a>
+    </div>
+  </div>
  </section>
-
-
 
 <script>
 mapboxgl.accessToken = 'pk.eyJ1Ijoic3RhdGVvZnRoZW1hcCIsImEiOiJjaXowOTh4am4wMWduMzNtbmtoY2V2Zzd6In0.4haxNzxFpuAssnAYc9XVAg';
 var map = new mapboxgl.Map({
-    container: 'mapbox-map', // container id
-    style: 'mapbox://styles/stateofthemap/ciz09a1cb000f2rplsvcyln0j',
-    center: [139.93428, 37.48583], // starting position
-    zoom: 16 // starting zoom
-});
-map.on('style.load', function() {
-    console.log('loaded')
-    $('.mapboxgl-ctrl-attrib.mapboxgl-ctrl').remove();
-    $('.mapboxgl-ctrl-bottom-right').append('<div class="mapboxgl-ctrl-attrib mapboxgl-ctrl"><a href="http://www.openstreetmap.org/about/" target="_blank">© OpenStreetMap contributors</a></div>');
+  container: 'mapbox-map',
+  style: 'mapbox://styles/stateofthemap/ciz5r0twj00772srz8lmbg41n?v1',
+  hash: true,
+  attributionControl: false,
+  center: [139.9346, 37.4820],
+  zoom: 14
 });
 
-
-
-// Add zoom and rotation controls to the map.
-map.addControl(new mapboxgl.Navigation());
+map.addControl(new mapboxgl.NavigationControl());
 map.scrollZoom.disable();
 </script>
