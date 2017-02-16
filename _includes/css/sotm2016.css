@@ -558,7 +558,7 @@ input#mce-EMAIL::selection {
 .intro-body .limiter {
     max-width: 100%;
     width: 100%;
-    height: 60%;
+    height: 80%;
     margin: 0px;
 }
 
@@ -569,7 +569,7 @@ input#mce-EMAIL::selection {
 .intro-body .limiter .right .col12 {
    text-align: center;
    padding: 0px;
-   width: 15%;
+   width: 20%;
    min-width: 100px;
    height: 100%;
    margin-left: auto;
