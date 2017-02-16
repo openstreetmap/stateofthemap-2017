@@ -2991,7 +2991,7 @@ Alternate exists for:
 .fill-grey-dark,
 .fill-gray-dark   { background:#404040; }
 .fill-white       { background:#fff; }
-.fill-light       { background:#f8f8f8; }
+.fill-light       { background:rgb(4, 5, 40) }
 /* deprecated, use fill-cyan */
 .fill-blue-light  { background:#52a1d8; }
 .fill-cyan        { background:#3bb2d0; }
@@ -3001,7 +3001,7 @@ Alternate exists for:
 .fill-denim        { background:#50667f; }
 .fill-navy         { background:#28353d; }
 .fill-navy-dark    { background:#222B30; }
-.fill-purple       { background:#FFFFFF; }
+.fill-purple       { background:rgb(4, 5, 40); }
 .fill-purple-light { background: rgba(145, 168, 255, 0.15);}
 .fill-green        { background:#56b881; }
 .fill-yellow       { background:#f1f075; }
@@ -3307,7 +3307,7 @@ Details: http://www.positioniseverything.net/easyclearing.html
 .fl                           { float:left; }
 .unfloat                      { float:none; }
 .dot                          { border-radius:50%; }
-.quiet                        { color:#7f7f7f; color: rgba(0,0,0,.5); }
+.quiet                        { color:#ffffff; }
 .dark .quiet                  { color: #B3BAE2; color: #B3BAE2;}
 .center                       { text-align:center; }
 .contain                      { position:relative; }
