@@ -551,8 +551,9 @@ input#mce-EMAIL::selection {
 /* Castle Colors
 ------------------------------------------------------- */
 
-#mc_embed_signup_scroll .dark {
-    color: #880E4F;
+#mc_embed_signup_scroll .dark,
+.limiter.pad8y.clearfix.center h2 {
+    color: #7f7f7f;
 }
 
 .intro-body .limiter {
