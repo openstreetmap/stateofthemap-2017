@@ -548,6 +548,10 @@ input#mce-EMAIL::selection {
     }
 }
 
+.navbar-filter {
+    background-color: #78acdf;
+}
+
 /* Castle Colors
 ------------------------------------------------------- */
 
