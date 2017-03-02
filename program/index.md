@@ -4,7 +4,9 @@ title: Program
 titlecontent:
 ---
 
-State of the Map 2017 is taking place from **August 18th to 20th 2017** in Aizuwakamatsu, Japan. We are looking forward to designing a program with you - the OpenStreetMap community. Expect a call for session proposals to go out soon - <a href="{{site.baseurl}}">sign up for event updates</a> to get a notification.
+## [Call for Proposals](https://blog.openstreetmap.org/2017/02/16/propose-your-session-to-state-of-the-map-2017/)
+
+State of the Map 2017 is taking place from **August 18th to 20th 2017** in Aizuwakamatsu, Japan. We are looking forward to designing a program with you - the OpenStreetMap community. Expect a call for session proposals to go out soon - <a href="{{site.baseurl}}/#mc_embed_signup pad4y">sign up for event updates</a> to get a notification.
 
 In the meantime, here is the outline of the program:
 
