@@ -24,9 +24,10 @@ h1.purple-text {
     color: #3c3c3c;
 }
 
-.dark h2 span {
+.dark h2 span, .main_color {
     color: #D81B60;
 }
+
 .uppercase {
     text-transform: uppercase;
 }
@@ -555,6 +556,10 @@ input#mce-EMAIL::selection {
 /* Castle Colors
 ------------------------------------------------------- */
 
+.sub_color {
+    color: #880E4F;
+}
+
 #mc_embed_signup_scroll .dark,
 .limiter.pad8y.clearfix.center h2 {
     color: #7f7f7f;
@@ -592,4 +597,8 @@ input#mce-EMAIL::selection {
     margin-left: auto;
     margin-right: auto;
     clear: both;
+}
+
+.announce-title {
+    font-size: 20px;
 }
