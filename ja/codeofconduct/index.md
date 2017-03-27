@@ -4,20 +4,20 @@ color: purple
 title: Code of conduct
 ---
 
-The [OpenStreetMap Foundation](http://wiki.osmfoundation.org/wiki/Main_Page) is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks.
+[OpenStreetMap 財団](http://wiki.osmfoundation.org/wiki/Main_Page) は、ジェンダー、ジェンダーアイデンティティ、ジェンダーの表明、性的志向、障害、身体的な見た目や身体の大きさ、人種や年齢、宗教などに関するハラスメントのない会議をすべての人が感じられるようにしようと努めています。どんな形であっても、会議参加者のハラスメントを黙認することはありません。また性的な言葉や画像を会議会場や口頭発表において用いることも、適切ではありません。
 
-Harassment includes verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
+ハラスメントには、ジェンダ、ジェンダーアイデンティティ、ジェンダー表現、性的志向、障害、見た目や身体の大きさ、人種や年齢、宗教に関しての支配的な社会的構造を強めるような口頭でのコメント、公的空間での性的な画像、故意の威嚇、ストーカー行為、つきまとい、ハラスメント目的の写真撮影や記録、口頭発表やイベントの継続的な中断、不適切な身体的接触、人の嫌がるような性的関心を含みます。参加者は、ハラスメント行為をやめるよう求められた場合、直ちに従わねばなりません。
 
-Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing, or otherwise create a sexualized environment.
+会議会場、スポンサーブース、関連するイベントへの出展者もまた、この反ハラスメントの方針に従わねばなりません、特に出展者は、性を強調するイメージ、アクティビティ、資料などを用いてはなりません。（ボランティアを含む）ブーススタッフは、性を強調するような衣装を着用してはなりません。また性を強調するような環境を作ってはなりません。
 
-If a participant engages in harassing behavior, the conference organizers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund. If you are being harassed, notice that someone else is being harassed, or have any other concerns that you are unable to satisfactorily resolve amongst the person(s) involved, please contact a member of conference staff immediately. Escalation to, and incident reporting by a small subset of conference team leaders will ensure that repeat offenders do not go unnoticed.
+参加者がハラスメント行為を行った場合、会議主催者は違反者への警告や参加費の返還の無い会議からの排除を含む、適切であると考えられるあらゆる対処策を取ることがあります。もし、参加者がハラスメント行為を受けた場合、また他の参加者がハラスメント行為を受けたことに気づいた場合、もしくはこれに関わる参加者の間での納得のいく解決が困難であると思われる懸念事項があれば、すぐに会議の運営スタッフに連絡してください。小チームからなる会議のリーダによるハラスメント行為の調査報告によって、確実に違反者によるハラスメント行為が繰り返され、放置されないようにします。
 
-Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+会議スタッフは、参加者からのホテル・会場の警備部門や警察への連絡の援助、護衛の提供、ハラスメントを受けた参加者が会議の間安全を感じられるような助力を進んで行います。
 
-We expect participants to follow these rules at all conference venues and conference-related social events.
+我々は、参加者がすべての会議会場と会議に関連するイベントにおいてこれらの規則に従うことを要請します。
 
-## Contact Information
+## ハラスメント行為などに関する連絡先
 
-You can email the State of the Map organizing team with any concerns at [team@stateofthemap.org](mailto:team@stateofthemap.org).
+何らかの懸念事項がある場合State of the Map準備チーム [team@stateofthemap.org](mailto:team@stateofthemap.org)にメールすることができます
 
-If you need immediate assistance, email the team. For police assistance call 110, for any other emergency cal 119.
+もし緊急の助けが必要な場合、チームにメールを送ってください。警察への連絡は110番、救急消防への連絡は119番への電話を行ってください。
