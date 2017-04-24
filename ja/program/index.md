@@ -4,7 +4,8 @@ title: Program
 titlecontent:
 ---
 
-State of the Map 2017 は**2017年8月18日から20日**にかけて会津若松市で開催されます。 OpenStreetMap コミュニティのあなたと一緒にイベントを作り上げることを楽しみにしています。[セッションの候補に投票](https://blog.openstreetmap.org/2017/04/11/community-survey-for-the-state-of-the-map-2017-program/)することができます。一緒にプログラムを作りましょう。
+State of the Map 2017 は**2017年8月18日から20日**にかけて会津若松市で開催されます。 OpenStreetMap コミュニティのあなたと一緒にイベントを作り上げることを楽しみにしています。  
+間もなくプログラムが公開になります！
 
 プログラムの概要は次の通りです:
 
