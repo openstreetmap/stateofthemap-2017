@@ -14,6 +14,7 @@ In the meantime, here is the outline of the program:
 
 We also have the venue booked for set-up on August 17th. Should you be interested in using a room for an informal event please contact us.
 
+<div>
 <table cellspacing="0" border="0">
 	<colgroup width="461"></colgroup>
 	<colgroup width="458"></colgroup>
@@ -313,5 +314,6 @@ We also have the venue booked for set-up on August 17th. Should you be intereste
 		<td colspan=2 height="20" align="left" valign=middle><font face="Calibri" size=3>There will be ample time for lightning talks (some to be announced soon) and birds of a feather (BOF) sessions.</font></td>
 		</tr>
 </table>
+</div>
 
 *Your State of the Map organizing team.*
