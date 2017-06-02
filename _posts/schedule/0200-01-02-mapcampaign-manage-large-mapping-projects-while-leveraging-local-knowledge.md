@@ -12,7 +12,7 @@ twitter:
 osm: PaulUithol
 room: Main hall
 tags:
-  - slot6
+  - slot16
 youtube_recording:
 ---
 Recently, HOT has started the development process on the "MapCampaign" web app. MapCampaign is similar to the Tasking Manager, but geared more towards supporting large scale field mapping projects.

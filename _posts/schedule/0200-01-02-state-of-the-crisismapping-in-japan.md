@@ -8,12 +8,12 @@ audience: "(2b) Data users: Non-profit and public service"
 audience_full: "(1a) Data contributors: Community, (1b) Data contributors: Public administration (open data, data feedback...), (2b) Data users: Non-profit and public service"
 name: Taichi FURUHASHI
 organization: Aoyama Gakuin Univ./ CrisisMappers JAPAN
-twitter: 
+twitter:
 osm: MAPconcierge
 room: Room 1
 tags:
-  - slot11
-youtube_recording: 
+  - slot21
+youtube_recording:
 ---
 In 2011, a big earthquake and tsunami struck Japan. We have learned, self-help, mutual assistance and public aid are basic self-reliant support system in the community. Map data is very useful information for their activities. Near the future, next serious natural disaster will come to Japan. We should make more resilient crisis mappers community in Japan. I would like to share about state of the Japanese crisis mappers community.
 

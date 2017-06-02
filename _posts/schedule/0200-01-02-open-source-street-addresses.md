@@ -8,12 +8,12 @@ audience: "(2a) Data users: Commercial"
 audience_full: "(1b) Data contributors: Public administration (open data, data feedback...), (2a) Data users: Commercial, (3a) Core OSM: OSM stack developers"
 name: Doug Rinckes
 organization: Google
-twitter: 
-osm: 
+twitter:
+osm:
 room: Main hall
 tags:
-  - slot4
-youtube_recording: 
+  - slot14
+youtube_recording:
 ---
 Most people in the world live on an unnamed road. Lack of street addresses has many negative impacts, and addressing projects are expensive and slow, and often the data from addressing projects is not made available online. Plus codes is an open source project to combine latitude and longitude together with localities or landmarks to provide people with a stable, convenient address.
 
