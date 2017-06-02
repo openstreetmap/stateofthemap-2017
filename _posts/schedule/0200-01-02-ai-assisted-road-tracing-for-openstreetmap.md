@@ -12,8 +12,8 @@ twitter: Drish_T
 osm: DrishT
 room: Main hall
 tags:
-  - slot3
-youtube_recording: 
+  - slot13
+youtube_recording:
 ---
 Facebook has conducted research into how various machine learning algorithms could be integrated into a mapping workflow to help human mappers edit and validate faster. They will share their initial results and workflow of how one could use AI to assist people in making more accurate maps by detecting roads from satellite imagery. More infomation about their import process can be found [here](https://wiki.openstreetmap.org/wiki/AI-Assisted_Road_Tracing).
 

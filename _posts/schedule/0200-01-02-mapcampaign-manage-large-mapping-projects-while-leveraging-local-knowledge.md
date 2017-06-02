@@ -1,6 +1,6 @@
 ---
 layout: event
-title: MapCampaign: Manage large mapping projects while leveraging local knowledge
+title: "MapCampaign: Manage large mapping projects while leveraging local knowledge"
 theme: Community growth and diversity, outreach
 theme_full: Community growth and diversity, outreach, Contribution & data collection, Humanitarian
 category: Community growth and diversity, outreach
@@ -8,12 +8,12 @@ audience: "(2b) Data users: Non-profit and public service"
 audience_full: "(2b) Data users: Non-profit and public service"
 name: Paul Uithol
 organization: HOT
-twitter: 
+twitter:
 osm: PaulUithol
 room: Main hall
 tags:
-  - slot6
-youtube_recording: 
+  - slot16
+youtube_recording:
 ---
 Recently, HOT has started the development process on the "MapCampaign" web app. MapCampaign is similar to the Tasking Manager, but geared more towards supporting large scale field mapping projects.
 

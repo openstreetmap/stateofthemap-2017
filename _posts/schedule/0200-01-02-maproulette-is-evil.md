@@ -12,8 +12,8 @@ twitter: mvexel
 osm: mvexel
 room: Main hall
 tags:
-  - slot2
-youtube_recording: 
+  - slot12
+youtube_recording:
 ---
 MapRoulette has been around for a few years, and mappers have fixed close to a million things in OSM using it. Not everyone agrees that MapRoulette, and tools like it, are good for OSM. MapRoulette, they argue, encourages 'Armchair Mapping'; edits made by people far away who do not know the local situation. Or worse, MapRoulette puts mappers to work much like machines; they map without really thinking about what they are doing.
 

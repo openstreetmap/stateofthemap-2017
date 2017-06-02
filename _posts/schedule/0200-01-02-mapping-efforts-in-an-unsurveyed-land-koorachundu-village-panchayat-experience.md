@@ -8,12 +8,12 @@ audience: "(1b) Data contributors: Public administration (open data, data feedba
 audience_full: "(1a) Data contributors: Community, (1b) Data contributors: Public administration (open data, data feedback...), (2c) Data users: Personal"
 name: Jaisen Nedumpala
 organization: Swathanthra Malayalam Computing (SMC)
-twitter: 
+twitter:
 osm: jaisuvyas
 room: Room 1
 tags:
-  - slot7
-youtube_recording: 
+  - slot17
+youtube_recording:
 ---
 Local governments are the custodians of asset registers which contain the details of basic infrastructure including road networks and other public facilities they maintain. Central govt guidelines to formulate projects requires GIS to be applied for the sake of accuracy and precision. But the state of affairs at Koorachundu Village Panchayat (local government) is that we have no cadastral map, no GIS. So, There is a need of baseline GeoData for Developmental Planning and Implementation, administration purposes, and in case of emergencies without hassle.
 
