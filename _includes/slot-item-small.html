@@ -22,7 +22,7 @@
  </a>
   <!-- <label><span class="round space-top2 fill-lighten1 micro strong pad0y">Track {{post.track}}</span></label> -->
   <small class='col12 pin-bottomleft pad1'>
-    <span class='inline pad0 dot {% if post.name %} fill-{{post.category | downcase | replace: ' ','-' }}{% endif %}' title='{{post.theme}}'></span>
-    {{post.name}}{% if post.organization %}, {{post.organization}}{% endif %}
+    <!--<span class='inline pad0 dot {% if post.name %} fill-{{post.category | downcase | replace: ' ','-' }}{% endif %}' title='{{post.theme}}'></span>-->
+    &bull; {{post.name}}{% if post.organization %}, {{post.organization}}{% endif %}
   </small>
 </div>
