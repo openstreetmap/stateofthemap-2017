@@ -6,7 +6,7 @@ theme_full: Community growth and diversity, outreach, Humanitarian
 category: Humanitarian
 audience: "(2b) Data users: Non-profit and public service"
 audience_full: "(1a) Data contributors: Community, (1b) Data contributors: Public administration (open data, data feedback...), (2b) Data users: Non-profit and public service"
-name: Gael Musquet
+name: Gael Musquet, Loïc Ortola
 organization: OpenStreetMap
 twitter:
 osm: ratzillas
