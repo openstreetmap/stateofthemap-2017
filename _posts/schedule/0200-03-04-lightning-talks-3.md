@@ -10,7 +10,7 @@ name: Numerous
 organization:
 twitter:
 osm:
-room: Room 6
+room: Room 1
 tags:
   - slot22
 youtube_recording:

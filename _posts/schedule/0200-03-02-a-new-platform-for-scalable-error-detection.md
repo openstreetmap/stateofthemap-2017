@@ -10,7 +10,7 @@ name: Ryan Peterson
 organization: Apple
 twitter: 
 osm: 
-room: Room 1
+room: Room 6
 tags:
   - slot22
 youtube_recording:
