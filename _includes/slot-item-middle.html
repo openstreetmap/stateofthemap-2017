@@ -7,6 +7,15 @@
 {% assign room = post.room %}
 {% endcase %}
 {% assign keyline = forloop.index | modulo:3 |  %}
+
+{% case post.category %}
+{% when "lightning" %}
+{% assign link = "/lightning-talks/#sunday" %}
+{% when "lightningja" %}
+{% assign link = "/ja/lightning-talks/#sunday" %}
+{% else %}
+{% capture link %}{{site.baseurl}}{{post.url}}{% endcapture %}
+{% endcase %}
 <div data-category='{{post.category | replace: ' ','-' }}' class="col4 prose pad1 program-block program-block-tall animate contain keyline-right {% if keyline == 1 %} keyline-left{% endif %} keyline-bottom">
   <label>
     <span class="room">{{room}}</span>
@@ -16,7 +25,7 @@
     {% endif %}
   </label>
   <a
-    href='{% if post.category == "lightning" %}/lightning-talks/{% else %}{{site.baseurl}}{{post.url}}{% endif %}'
+    href='{{link}}'
     class='sans block space-top2 sessiontitle'>
    {{post.title}}
  </a>

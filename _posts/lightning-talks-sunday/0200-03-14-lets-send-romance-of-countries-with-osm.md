@@ -8,5 +8,7 @@ category: lightning
 length: 5min
 twitter:
 osm: K_Sakanoshita
+time: sunday
+room: Main hall
 ---
 京都、大阪など、関西で行われているマッピングパーティの活動報告を通して、諸国に埋もれている浪漫をOSMで世界に発信する意義を話します

@@ -1,0 +1,15 @@
+---
+layout: event
+Title: "The inclusion of small OpenStreetMap communities"
+name: Tommy G D Charles
+organization: "Students Geographical Association: Youth Mappers"
+theme: multi
+category: lightning
+length: 5min
+twitter: Godpherytommy1
+osm: Tommy G D Charles
+time: sunday
+room: Main hall
+---
+This will be a session to highlight the constraints faced by mappers in smaller OpenStreetMap communities and possible suggestions on how to get their full participation and cooperation. This will aim at women and mappers with underprivileged backgrounds.
+

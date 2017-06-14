@@ -8,6 +8,8 @@ category: lightning
 length: 5min
 twitter:
 osm: tm3594
+time: sunday
+room: Main hall
 ---
 In the Aizu area where there is Aizuwakamatsu City, serialized historical religious facilities are scattered.
 These are called thirty-three goddards and are symbols of religious local residents.

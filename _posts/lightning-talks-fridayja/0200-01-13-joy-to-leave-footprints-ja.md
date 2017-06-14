@@ -1,13 +1,15 @@
 ---
-layout: event
+layout: ja/eventja
 Title: "足跡を残す喜び～マッピングの楽しさ～"
 name: 瀧口 典子
 organization: 個人
 theme: multi
-category: lightning
+category: lightningja
 length: 5min
 twitter:
 osm: taki3hira
+time: friday
+room: Main hall
 ---
 "OpenStreetMapに出会って約3年。
 既存の地図を使うだけでなく、自ら地理データを作成できる！
