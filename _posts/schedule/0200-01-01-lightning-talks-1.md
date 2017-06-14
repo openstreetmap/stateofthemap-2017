@@ -3,7 +3,7 @@ layout: event
 title: Lightning talks
 theme: Community growth and diversity, outreach
 theme_full:
-category: Community growth and diversity, outreach
+category: lightning
 audience:
 audience_full:
 name: Numerous
