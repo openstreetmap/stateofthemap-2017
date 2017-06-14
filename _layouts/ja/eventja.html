@@ -62,12 +62,17 @@ color: dark-nav
 {% assign time = 'Sunday 2:00pm' %}
 {% elsif page.tags contains 'turn25' %}
 {% assign time = 'Sunday 3:45pm' %}
+{% elsif page.time contains 'friday' %}
+{% assign time = 'Friday Lightning talk' %}
+{% elsif page.time contains 'sunday' %}
+{% assign time = 'Sunday Lightning talk' %}
 {% endif %}
 <div class='' id="event-page">
   <div class=''>
     <div class='pad4y col12 clearfix space-bottom8'>
       <div class='col4'><h2 class='spartan color-{{page.color}}2'>{{page.title}}</h2>
         <span class='inline pad0'>{{time}}, {{room}}</span>
+        {% unless page.category == 'lightningja' %}
         <p class="space-top2">
            <!--<span class='inline pad0 dot fill-{{page.category | replace: ' ',  '-'}}'></span>-->
            Theme:<br>
@@ -77,6 +82,7 @@ color: dark-nav
           Audience:<br>
           &bull; <span class='sans capitalize'>{{page.audience}}</span>
         </p>
+        {% endunless %}
       </div>
       <div class='col7 margin1 min-height'>
         <header class='space-bottom2'>
