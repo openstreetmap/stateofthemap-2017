@@ -8,6 +8,8 @@ category: lightning
 length: 5min
 twitter:
 osm: taki3hira
+time: friday
+room: Main hall
 ---
 "OpenStreetMapに出会って約3年。
 既存の地図を使うだけでなく、自ら地理データを作成できる！

@@ -8,6 +8,8 @@ category: lightning
 length: 5min
 twitter: sfkeller
 osm: Geonick
+time: friday
+room: Main hall
 ---
 Kort is a gamification project which helps to improve OpenStreetMap data. Previously it was implemented for browsers on mobile phones. Now it's being relaunched as a native app for Android and iOS! This talk explains the features and challenges behind this _serious game_, since not only the front ends but also the backend have been rewritten. Stay tuned!
 
