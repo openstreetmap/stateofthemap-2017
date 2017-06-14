@@ -3,7 +3,7 @@ layout: ja/eventja
 title: Lightning talks
 theme: Community growth and diversity, outreach
 theme_full:
-category: Community growth and diversity, outreach
+category: lightningja
 audience:
 audience_full:
 name: Numerous
