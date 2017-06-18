@@ -641,6 +641,11 @@ h3.smaller-title.silver_sponsors:before {
     height: 100%;
 }
 
+#hitachi {
+   filter: invert(0%) !important;
+   background-color: #ffffff;
+}
+
 /* Schedule display
 ---------------------------------------------- */
 .program-header {
