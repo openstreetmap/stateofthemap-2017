@@ -608,10 +608,28 @@ h3.smaller-title.silver_sponsors:before {
 }
 
 .col12 .col4.margin4.margin4r {
+    position: relative;
     margin-left: auto;
     margin-right: 0px;
     width: 100%;
     clear: both;
+}
+
+.aizu-logo {
+    position:relative;
+    width: 100%;
+    height: 0px;
+    padding-top: 154%;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.col12 .col4.margin4.margin4r img {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
 }
 
 .col12 a {
