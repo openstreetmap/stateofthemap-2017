@@ -1,6 +1,6 @@
 ---
 layout: ja/eventja
-title: MapRoulette is evil
+title: "MapRoulette: One million corrections and beyond"
 theme: Organisational, legal
 theme_full: Community growth and diversity, outreach, Contribution & data collection, Local community
 category: Organisational, legal
@@ -15,7 +15,7 @@ tags:
   - turn12
 youtube_recording:
 ---
-MapRoulette has been around for a few years, and mappers have fixed close to a million things in OSM using it. Not everyone agrees that MapRoulette, and tools like it, are good for OSM. MapRoulette, they argue, encourages 'Armchair Mapping'; edits made by people far away who do not know the local situation. Or worse, MapRoulette puts mappers to work much like machines; they map without really thinking about what they are doing.
+MapRoulette has been around for a few years, and mappers have fixed close to a million things in OSM using it. However, not everyone agrees that MapRoulette and tools like it are good for OSM because, some argue, it encourages 'armchair mapping' rather than on the ground surveying.
 
-In this talk, I want to explore the good, the bad and the evil in QA tools like MapRoulette, and propose ways forward for QA tools in OSM. I especially invite you to attend if you are critical of MapRoulette!
+In this talk, I will discuss MapRoulette’s important and sustained role in improving map data quality. I will demonstrate how MapRoulette's ongoing development continues to address community concerns, and propose ways forward for MapRoulette and other QA tools in OSM. I especially invite you to attend if you are critical of MapRoulette as your feedback is important to its development!
 
