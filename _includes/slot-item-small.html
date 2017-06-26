@@ -16,6 +16,36 @@
 {% else %}
 {% capture link %}{{site.baseurl}}{{post.url}}{% endcapture %}
 {% endcase %}
+
+{% case post.category %}
+{% when 'Cartography and visualisation' %}
+{% assign  color = 'visualisation' %}
+{% when 'Community growth and diversity, outreach' %}
+{% assign  color = 'community-growth' %}
+{% when 'Contribution & data collection' %}
+{% assign  color = 'getting-around' %}
+{% when'Humanitarian' %}
+{% assign color = 'humanitarian' %}
+{% when 'GIS, data use and data analysis' %}
+{% assign color = 'analysis' %}
+{% when 'Introduction to OSM, first steps for beginners' %}
+{% assign color = 'introduction' %}
+{% when 'IT and technical, operations' %}
+{% assign color = 'technical' %}
+{% when 'Local community' %}
+{% assign color = 'local-community' %}
+{% when 'Organisational, legal' %}
+{% assign color = 'legal' %}
+{% when 'Transport, routing and urban planning' %}
+{% assign color = 'transport' %}
+{% when 'lightning' %}
+{% assign color = 'lightning' %}
+{% when 'lightningja' %}
+{% assign color = 'lightning' %}
+{% else %}
+{% assign color = 'Other' %}
+{% endcase %}
+
 <div data-category='{{post.category | replace: ' ','-' }}' class="col6 prose pad1 program-block program-block-tall animate contain keyline-right {% if keyline == 1 %} keyline-left{% endif %} keyline-bottom">
   <label>
     <span class="room">{{room}}</span>
@@ -31,7 +61,7 @@
  </a>
   <!-- <label><span class="round space-top2 fill-lighten1 micro strong pad0y">Track {{post.track}}</span></label> -->
   <small class='col12 pin-bottomleft pad1'>
-    <!--<span class='inline pad0 dot {% if post.name %} fill-{{post.category | downcase | replace: ' ','-' }}{% endif %}' title='{{post.theme}}'></span>-->
-    &bull; {{post.name}}{% if post.organization %}, {{post.organization}}{% endif %}
+    <span class='inline pad0 dot {% if post.name %} fill-{{color}}{% endif %}' title='{{post.theme}}'></span>
+     {{post.name}}{% if post.organization %}, {{post.organization}}{% endif %}
   </small>
 </div>

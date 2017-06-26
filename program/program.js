@@ -26,8 +26,9 @@ var $programs = $('.program-block');
 
 $category.on('click', function() {
   var cat = $(this).data('category');
+  var color = $(this).data('color');
   var label = $(this).data('label');
-  var dot = '<span class="dot pad0 inline fill-' + cat + '"></span>';
+  var dot = '<span class="dot pad0 inline fill-' + color + '"></span>';
 
   $trigger.html(dot + label);
 

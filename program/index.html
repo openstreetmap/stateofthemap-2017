@@ -4,24 +4,40 @@ color: fill-midnight
 themes:
   - key: all
     label: All
-  - key: analysis
-    label: Analysis
-  - key: community-growth
-    label: Community Growth
-  - key: education
-    label: Education
-  - key: humanitarian
+    color: all
+  - key: Cartography-and-visualisation
+    label: Cartography and visualisation
+    color: visualisation
+  - key: Community-growth-and-diversity,-outreach
+    label: Community growth and diversity, outreach
+    color: community-growth
+  - key: Contribution-&-data-collection
+    label: Contribution & data collection
+    color: getting-around
+  - key : Humanitarian
     label: Humanitarian
-  - key: indoors
-    label: Indoors
-  - key: local-community
-    label: Local Community
-  - key: technical
-    label: Technical
-  - key: tools
-    label: Tools
-  - key: birds-of-feather
-    label: Birds of feather
+    color: humanitarian
+  - key: GIS,-data-use-and-data-analysis
+    label: GIS, data use and data analysis
+    color: analysis
+  - key: Introduction-to-OSM,-first-steps-for-beginners
+    label: Introduction to OSM, first steps for beginners
+    color: introduction
+  - key: IT-and-technical,-operations
+    label: IT and technical, operations
+    color: technical
+  - key: Local-community
+    label: Local-community
+    color: local-community
+  - key: Organisational,-legal
+    label: Organisational, legal
+    color: legal
+  - key: Transport,-routing-and-urban-planning
+    label: Transport, routing and urban planning
+    color: transport
+  - key: Other
+    label: Other
+    color: Other
 ---
 
     <div class='pad4y col12 clearfix prose'>
@@ -44,7 +60,7 @@ themes:
         </div>
         <header class='js-fixed program-header fill-purple dark z1 col12 mobile-cols clearfix keyline-all contain'>
           <div class='col8 truncate pad1 js-date'>Friday</div>
-          <!--
+
           <div class='col4 keyline-left'>
             <a href='#' class='js-dropdown-trigger quiet pad1 block truncate'>
               <span class='dot pad0 inline fill-all'></span>
@@ -52,13 +68,13 @@ themes:
             </a>
             <div class='js-dropdown dropdown scroll-styled col4 hidden pin-topright z1 keyline-all'>
               {% for theme in page.themes %}
-                <a href='#' data-category='{{theme.key}}' data-label='{{theme.label}}' class='quiet block pad1x pad0y keyline-bottom js-category'>
-                  <span class='dot pad0 inline fill-{{theme.key}}'></span>
+                <a href='#' data-category='{{theme.key}}' data-label='{{theme.label}}' data-color='{{theme.color}}' class='quiet block pad1x pad0y keyline-bottom js-category'>
+                  <span class='dot pad0 inline fill-{{theme.color}}'></span>
                   {{theme.label}}
                 </a>
               {% endfor %}
             </div>
-          </div>-->
+          </div>
         </header>
 
         <!-- Friday -->

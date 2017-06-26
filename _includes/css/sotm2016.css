@@ -787,19 +787,21 @@ a:hover.sessiontitle {
 /* Category fills
 ---------------------------------------------- */
 .dot.fill-all                 { background-color:#ffffff; }
-.dot.fill-community-growth           { background-color:#35b6ef; }
-.dot.fill-analysis           { background-color:#96e185; }
-.dot.fill-education               { background-color:#aebfd1; }
-.dot.fill-humanitarian        { background-color:#77bce5; }
-.dot.fill-indoors                    { background-color:#a58771; }
-.dot.fill-local-community            { background-color:#abb9ed; }
-.dot.fill-technical             { background-color:#fa8e6c; }
-.dot.fill-tools              { background-color:#f8d671; }
+.dot.fill-Other                    { background-color:#666666; }
+.dot.fill-community-growth           { background-color:#ff7f7f; }
+.dot.fill-analysis           { background-color:#ff7fff; }
+.dot.fill-humanitarian        { background-color:#bf7fff; }
+.dot.fill-local-community            { background-color:#7f7fff; }
+.dot.fill-technical             { background-color:#7fbfff; }
+.dot.fill-visualisation               { background-color:#7fffff; }
+.dot.fill-getting-around       { background-color:#ffbf7f; }
+.dot.fill-introduction               { background-color:#7fff7f; }
+.dot.fill-legal            { background-color:#bfff7f; }
+.dot.fill-transport               { background-color:#ffff7f; }
+.dot.fill-lightning            { background-color:#f9d29d; }
+.dot.fill-lightninja           { background-color:#f9d29d; }
+
 .dot.fill-openstreetmap-org   { background-color:#7092ff; }
 .dot.fill-birds-of-feather      { background-color:#ea5959; }
-.dot.fill-getting-around       { background-color:#a2fec3; }
-.dot.fill-multi               { background-color:#db7cf2; }
 .dot.fill-tools               { background-color:#f8d671; }
 .dot.fill-Tools               { background-color:#f8d671; }
-.dot.fill-technical            { background-color:#3eab9f; }
-.dot.fill-lightning            { background-color:#f9d29d; }
