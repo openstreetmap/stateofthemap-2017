@@ -789,17 +789,21 @@ a:hover.sessiontitle {
 .dot.fill-all                 { background-color:#ffffff; }
 .dot.fill-community-growth           { background-color:#35b6ef; }
 .dot.fill-analysis           { background-color:#96e185; }
-.dot.fill-education               { background-color:#aebfd1; }
 .dot.fill-humanitarian        { background-color:#77bce5; }
-.dot.fill-indoors                    { background-color:#a58771; }
 .dot.fill-local-community            { background-color:#abb9ed; }
 .dot.fill-technical             { background-color:#fa8e6c; }
+.dot.fill-visualisation               { background-color:#db7cf2; }
+.dot.fill-getting-around       { background-color:#a2fec3; }
+.dot.fill-introduction               { background-color:#aebfd1; }
+.dot.fill-legal            { background-color:#3eab9f; }
+.dot.fill-transport               { background-color:#f8d671; }
+.dot.fill-Other                    { background-color:#a58771; }
+.dot.fill-lightning            { background-color:#f9d29d; }
+.dot.fill-lightninja           { background-color:#f9d29d; }
+
 .dot.fill-tools              { background-color:#f8d671; }
 .dot.fill-openstreetmap-org   { background-color:#7092ff; }
 .dot.fill-birds-of-feather      { background-color:#ea5959; }
-.dot.fill-getting-around       { background-color:#a2fec3; }
-.dot.fill-multi               { background-color:#db7cf2; }
 .dot.fill-tools               { background-color:#f8d671; }
 .dot.fill-Tools               { background-color:#f8d671; }
-.dot.fill-technical            { background-color:#3eab9f; }
 .dot.fill-lightning            { background-color:#f9d29d; }
