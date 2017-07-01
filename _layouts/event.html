@@ -67,6 +67,19 @@ color: dark-nav
 {% elsif page.time contains 'sunday' %}
 {% assign time = 'Sunday Lightning talk' %}
 {% endif %}
+
+{% if page.tags contains 'slot22' %}
+{% assign length = '75min' %}
+{% elsif page.tags contains 'slot23' %}
+{% assign length = '75min' %}
+{% elsif page.tags contains 'slot24' %}
+{% assign length = '75min' %}
+{% elsif page.tags contains 'slot25' %}
+{% assign length = '75min' %}
+{% else %}
+{% assign length = '30min' %}
+{% endif %}
+
 <div class='' id="event-page">
   <div class=''>
     <div class='pad4y col12 clearfix space-bottom8'>
@@ -89,11 +102,7 @@ color: dark-nav
 
           <div class='col12'>
             <h3 class='inline event-title'>{{page.name}}
-              {% if page.length %}
-                <small class='inline'>{{page.length}}</small>
-              {% else %}
-                <small class='inline pad1x'>{% if page.length %}{{page.length}}{% elsif page.track %}75min{% else %}30min{% endif %}</small>
-              {% endif %}
+               <small class='inline pad1x'>{{ length }}</small>
             </h3>
 
             {% if page.twitter %}
