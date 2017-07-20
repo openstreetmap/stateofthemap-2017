@@ -6,7 +6,7 @@ theme_full: Local community
 category: Local community
 audience: "(3b) Core OSM: OSMF working groups (community, licence, data...)"
 audience_full: "(3b) Core OSM: OSMF working groups (community, licence, data...)"
-name: TBA (OSMF member)
+name: Martijn van Exel
 organization: OSMF
 twitter: openstreetmap
 osm:

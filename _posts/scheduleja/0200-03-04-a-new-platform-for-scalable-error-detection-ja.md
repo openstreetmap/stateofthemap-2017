@@ -6,7 +6,7 @@ theme_full: GIS, data use and data analysis
 category: GIS, data use and data analysis
 audience: "(2a) Data users, Commercial"
 audience_full: "(2a) Data users, Commercial"
-name: Ryan Peterson
+name: "Matthieu Nahoum, Mike Gostintsev, Michael Cuthbert and Kelsey Reinking"
 organization: Apple
 twitter: 
 osm: 
