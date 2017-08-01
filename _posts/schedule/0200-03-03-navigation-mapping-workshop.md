@@ -6,10 +6,10 @@ theme_full: Contribution & data collection, Transport, routing and urban plannin
 category: Contribution & data collection
 audience: "(1a) Data contributors: Community"
 audience_full: "(1a) Data contributors: Community, (1b) Data contributors: Public administration (open data, data feedback...), (1c) Data contributors: Companies (data feedback, driven by need of data...), (2a) Data users: Commercial, (2b) Data users: Non-profit and public service, (2c) Data users: Personal"
-name: Arun Ganesh
+name: Oindrila Gupta
 organization: Mapbox
-twitter: planemad
-osm: PlaneMad
+twitter: oindrila_g
+osm: oini
 room: Room 5
 tags:
   - slot23
