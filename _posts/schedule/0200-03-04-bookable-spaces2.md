@@ -1,12 +1,12 @@
 ---
 layout: event
-title: Bookable spaces
-theme: You decide!
-theme_full: You decide!
-category: You decide!
-audience: "Share your ideas on the wiki to help promote your session"
-audience_full: "Share your ideas on the wiki to help promote your session"
-name: Your name here
+title: Guided tour of Fukushima Museum
+theme:
+theme_full:
+category:
+audience:
+audience_full:
+name: Takehiro Watanabe
 organization:
 twitter:
 osm:
@@ -15,6 +15,6 @@ tags:
   - slot25
 youtube_recording:
 ---
-What area of OpenStreetMap are you involved in, and do you want to discuss specific subjects with like-minded people? The engineering group, mappers that cycle, those wanting to increase diversity and representation,… we’ve had some great sessions before.
+The Fukushima Prefectural Museum (福島県立博物館, Fukushima Kenritsu Hakubutsukan) in Aizu has an extensive permanent exhibition that illustrates Japan's entire history, stretching from archaeological finds from the Jomon Period (300 BC) to artifacts of daily life in the 1950s. 
 
-Edit the [OSM wiki](https://wiki.openstreetmap.org/wiki/State_of_the_Map_2017/Breakout_sessions) page to suggest a group or a topic, so others can get interested in joining you. During the conference, confirm your session with the event team for its time slot to be decided.
+Please meet in the exhibition hall. Once the group is gathered, Takehiro Watanabe will walk with you to the museum and provide a guided tour (a small 610 Yen cash fee applies, payable to the museum). 
