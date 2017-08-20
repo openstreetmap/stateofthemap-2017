@@ -17,6 +17,8 @@ youtube_recording:
 ---
 This is an interactive workshop where we will go through editing in OpenStreetMap using Mapillary detections. Mapillary processes every photo contributed to identify a range of objects. Many of these objects correspond to tags in OpenStreetMap and can thus be very useful for map editing. We’ll go through these detections and how to make the most of them when editing. Make sure to bring your laptop and a mouse if you have one.
 
+You can find the [workshop guide here](https://paper.dropbox.com/doc/Mapillary-Workshop-Y9yjbhliJs86FI9DSrEnG).
+
 | Time          | Topic                                 |
 |---------------|---------------------------------------|
 | 15:15 - 15:20 | Mapillary recap - where are we now?   |
