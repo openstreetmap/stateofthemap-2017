@@ -552,6 +552,12 @@ h3.smaller-title.silver_sponsors:before {
    color: #a0522d;
 }
 
+/* Videos
+------------------------------------------------------- */
+#videos .limiter {
+   border-bottom:1px solid rgba(255,255,255,0.30);
+}
+
 
 /* Mobile
 ------------------------------------------------------- */
