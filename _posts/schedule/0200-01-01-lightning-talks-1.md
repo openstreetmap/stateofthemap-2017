@@ -13,7 +13,7 @@ osm:
 room: Main hall
 tags:
   - slot3
-youtube_recording:
+youtube_recording: 87D7CpsAWn8
 ---
 "Join us on Friday for the following Lightning talks in the main hall:
 

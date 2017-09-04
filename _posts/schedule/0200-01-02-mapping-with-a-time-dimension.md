@@ -13,7 +13,8 @@ osm: daanvr
 room: Room 1
 tags:
   - slot3
-youtube_recording: 
+youtube_recording: aoT3FY_CTQc
+youtube_time: 1h33m20s
 ---
 I will speak about the progress I have made from last year’s lighting-talk at Brussels of a vision to start a non-profit startup aiming at making one unified map of the world history. Using the latest technologies like vector tiles to add a time dimension to every map tile. 
 I would also speak about the challenges of building a platform form scratch, build a community, to getting significant funding from local government, and much more.

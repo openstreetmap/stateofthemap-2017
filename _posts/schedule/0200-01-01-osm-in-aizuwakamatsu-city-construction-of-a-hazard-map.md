@@ -13,7 +13,8 @@ osm: jun_meguro
 room: Main hall
 tags:
   - slot1
-youtube_recording: 
+youtube_recording: PvMhlAcg8n4
+youtube_time: 56m20s
 ---
 Aizuwakamatsu city is one of the representative cities of Fukushima prefecture. In OpenStreetMap it is covered throughout by the community contribution. The administration of Aizuwakamatsu city used the OpenStreetMap data and other opendata to create a hazard map of sediment-related disasters, and distributed 50,000 paper maps to all households. The Aizu OSM community also has created its own hazard map. Jun Meguro will introduce the process until the hazard map is constructed.
 
