@@ -13,7 +13,8 @@ osm: smellman
 room: Room 1
 tags:
   - slot1
-youtube_recording: 
+youtube_recording: aoT3FY_CTQc
+youtube_time: 14m12s
 ---
 We developed an OpenStreetMap-driven smartphone application named "Daredemo Navi" for Kobe City's "Shiawase-no-Mura" (Village of Happiness) in Japan.
 "Shiawase-no-Mura" is a comprehensive welfare complex equipped with a variety of integrated facilities designed to support independent living for the disabled and the elderly.
