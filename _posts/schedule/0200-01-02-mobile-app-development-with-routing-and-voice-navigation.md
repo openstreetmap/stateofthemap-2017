@@ -15,6 +15,7 @@ tags:
   - slot1
 youtube_recording: aoT3FY_CTQc
 youtube_time: 14m12s
+speakerdeck: sotm2017/day1-1030-mobile-app-development-with-routing-and-voice-navigation
 ---
 We developed an OpenStreetMap-driven smartphone application named "Daredemo Navi" for Kobe City's "Shiawase-no-Mura" (Village of Happiness) in Japan.
 "Shiawase-no-Mura" is a comprehensive welfare complex equipped with a variety of integrated facilities designed to support independent living for the disabled and the elderly.

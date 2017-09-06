@@ -14,6 +14,7 @@ room: Main hall
 tags:
   - turn16
 youtube_recording:
+speakerdeck: sotm2017/day2-1230-mapcampaign-manage-large-mapping-projects-while-leveraging-local-knowledge
 ---
 Recently, HOT has started the development process on the "MapCampaign" web app. MapCampaign is similar to the Tasking Manager, but geared more towards supporting large scale field mapping projects.
 

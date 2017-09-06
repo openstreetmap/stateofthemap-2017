@@ -10,6 +10,7 @@ twitter: Godpherytommy1
 osm: Tommy G D Charles
 time: sunday
 room: Main hall
+speakerdeck: sotm2017/day3-0930-lt-the-inclusion-of-small-openstreetmap-communities
 ---
 This will be a session to highlight the constraints faced by mappers in smaller OpenStreetMap communities and possible suggestions on how to get their full participation and cooperation. This will aim at women and mappers with underprivileged backgrounds.
 

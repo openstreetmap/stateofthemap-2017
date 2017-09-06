@@ -10,6 +10,7 @@ twitter:
 osm: tm3594
 time: sunday
 room: Main hall
+speakerdeck: sotm2017/day3-0930-lt-archiving-of-33-historic-facilities-with-multilayered-geo-open-data
 ---
 In the Aizu area where there is Aizuwakamatsu City, serialized historical religious facilities are scattered.
 These are called thirty-three goddards and are symbols of religious local residents.

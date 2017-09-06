@@ -14,6 +14,7 @@ room: Main hall
 tags:
   - turn15
 youtube_recording:
+speakerdeck: sotm2017/day2-1200-hackers-against-natural-disasters
 ---
 Populations living in a high seismic area don't all have the same level of preparation for disasters.
 What can we do when the government does not provide enough information (safe points, dangerous areas) nor prevention against those risks?
