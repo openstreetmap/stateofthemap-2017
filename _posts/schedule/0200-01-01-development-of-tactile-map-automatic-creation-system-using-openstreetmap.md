@@ -14,6 +14,8 @@ room: Main hall
 tags:
   - slot19
 youtube_recording:
+youtube_time:
+speakerdeck: sotm2017/day2-1500-openstreetmapdetawoyong-itahong-di-tu-zi-dong-zuo-cheng-sisutemufalsekai-fa-suo-chi-niying-zitabiao-shi-nei-rong-bian-geng-ji-neng-falseshi-zhuang
 ---
 "視覚障害者の歩行を支援する手段として触地図がある．触地図とは触覚を用いて読み取る地図であり，視覚障害者が外出する際に道の繋がりを認識したり，建物の配置から街並みを把握したりすることに使用される．触地図画像を自動で作成するシステムとしてtmacsやOpenStreetMap データを用いた触地図自動作成システムが本研究室で開発されている．しかし，これらのシステムには視覚障害者の歩行に役立つ情報を触地図に記載できない，広範囲の触地図を作成すると表示が混みあい，触知が困難になる，といった問題点があった．そこで本研究では，歩行に役立つ情報を記載でき，なおかつ広範囲でも触知しやすい触地図画像を自動で作成する新たなシステムを開発することにした．
 システムの主な構成要素は地図データ，マップファイル，MapServerの三つであり，本システムにおける地図データとマップファイルについて説明する．
