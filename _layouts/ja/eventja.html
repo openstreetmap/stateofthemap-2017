@@ -133,6 +133,7 @@ color: dark-nav
         </header>
         {% if page.youtube_recording %}
         <div class='prose space-bottom2'>
+          {% if page.youtube_time %}{% assign youtube_second = page.youtube_time[0] | times:60 | plus:page.youtube_time[1] %}{% endif %}
           <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.youtube_recording }}{% if page.youtube_time %}?start={{ page.youtube_time }}{% endif %}" frameborder="0" allowfullscreen></iframe>
         </div>
         {% endif %}
