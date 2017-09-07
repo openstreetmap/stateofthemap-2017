@@ -14,6 +14,8 @@ room: Room 1
 tags:
   - slot25
 youtube_recording:
+youtube_time:
+speakerdeck: sotm2017/day3-1515-using-image-detections-in-map-editing
 ---
 This is an interactive workshop where we will go through editing in OpenStreetMap using Mapillary detections. Mapillary processes every photo contributed to identify a range of objects. Many of these objects correspond to tags in OpenStreetMap and can thus be very useful for map editing. We’ll go through these detections and how to make the most of them when editing. Make sure to bring your laptop and a mouse if you have one.
 
