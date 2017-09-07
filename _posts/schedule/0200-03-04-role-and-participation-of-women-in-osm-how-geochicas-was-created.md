@@ -14,6 +14,8 @@ room: Room 6
 tags:
   - slot24
 youtube_recording:
+youtube_time:
+non_speakerdeck: "http://slides.com/lasele/geochicas-take-japan#/"
 ---
-I want to talk about the importance of having gender focused groups in order to create more inclusive spaces of discussion. During SOTM Latam I organised a panel of Latin American women to discuss the role, participation and representation of women in our community. I want to do the same in SOTM International with women not only from Latin America but from different communities, and create more working groups and networks with girls, for example like @OSMGirls from Africa. 
+I want to talk about the importance of having gender focused groups in order to create more inclusive spaces of discussion. During SOTM Latam I organised a panel of Latin American women to discuss the role, participation and representation of women in our community. I want to do the same in SOTM International with women not only from Latin America but from different communities, and create more working groups and networks with girls, for example like @OSMGirls from Africa.
 
