@@ -14,7 +14,7 @@ room: Room 1
 tags:
   - turn4
 youtube_recording: aoT3FY_CTQc
-youtube_time: 2h02m00s
+youtube_time: [122,0]
 speakerdeck: sotm2017/day1-1230-new-opportunities-for-understanding-the-ancient-coastline
 ---
 Coastal erosion is a landscape alteration process that affects areas throughout the world. In terms of cultural heritage management, the erosion-induced loss of land is an obstacle to our still emerging understanding of ancient coastlines, maritime trade and human interaction. Although measures have been taken to quantify land-loss and protect actively eroding areas, a key question remains: how can we monitor the exposure of previously unknown archaeological sites in a time- and cost-effective manner?

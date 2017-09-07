@@ -13,8 +13,8 @@ osm: PlaneMad
 room: Main hall
 tags:
   - turn8
-youtube_recording:
-youtube_time:
+youtube_recording: 7y5thJzBisA
+youtube_time: [0,20]
 non_speakerdeck: "https://docs.google.com/presentation/d/1PQBUGyAJJJ7uDkTYPvGohyD3AXo5aiaLscQTrCYOrtc/pub?start=false&loop=false&delayms=30000"
 ---
 With over 25,000 changesets a day, OpenStreetMap has grown to be one of the most active open data projects in history. The open nature of the map is both its strength and weakness, allowing real world changes to be reflected instantly, while also exposing the data to human mistakes and vandalism. A validated OSM that is quality controled and protected from breakages is extremely valuable to data consumers and is critical in times of humanitarian crisis.

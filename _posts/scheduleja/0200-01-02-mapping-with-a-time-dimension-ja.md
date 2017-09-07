@@ -13,7 +13,8 @@ osm: daanvr
 room: Room 1
 tags:
   - turn3
-youtube_recording:
+youtube_recording: aoT3FY_CTQc
+youtube_time: [93,20]
 speakerdeck: sotm2017/day1-1200-mapping-with-a-time-dimension
 ---
 I will speak about the progress I have made from last year’s lighting-talk at Brussels of a vision to start a non-profit startup aiming at making one unified map of the world history. Using the latest technologies like vector tiles to add a time dimension to every map tile.

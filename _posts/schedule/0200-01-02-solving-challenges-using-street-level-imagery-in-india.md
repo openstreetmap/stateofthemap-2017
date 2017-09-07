@@ -13,7 +13,8 @@ osm: shravan91
 room: Room 1
 tags:
   - slot15
-youtube_recording:
+youtube_recording: nMxSDjKiZ-M
+youtube_time: [36,20]
 ---
 With the advent of urbanisation and development in India, communication and technology has penetrated even the remotest towns and villages. What India lacks though is the availability of street level imagery and geospatial data. Better availability of accurate of both can help solving some of the issues.
 

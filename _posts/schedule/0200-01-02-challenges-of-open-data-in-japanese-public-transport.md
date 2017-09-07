@@ -13,7 +13,8 @@ osm: niyalist
 room: Room 1
 tags:
   - slot10
-youtube_recording: 
+youtube_recording: SbBIvvgblaI
+youtube_time: [71,25]
 ---
 In this talk, I will give an overview of open data in Japanese public transport. Open data movement in Japanese public transport was far behind compared with Europe and the US. Recently however, remarkable activities by some transport agencies and the goverment have arised to accelerate Japanese open data. I will introduce these activities including the way to contribute to OpenStreetMap.
 

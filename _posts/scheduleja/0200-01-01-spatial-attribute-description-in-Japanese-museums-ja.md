@@ -13,7 +13,8 @@ osm: ta_niiyan
 room: Main hall
 tags:
   - turn18
-youtube_recording:
+youtube_recording: nhLyrJOcP5k
+youtube_time: [30,14]
 speakerdeck: sotm2017/day2-1430-ri-ben-falsemei-shu-guan-bo-wu-guan-tu-shu-guan-huroagaidonimirukong-jian-shu-xing-ji-shu-falseshi-yong-qing-xiang-yu-ju-falseyuragitopikutoguramufalserankingu
 ---
 "　日本の博物館・美術館、図書館などのフロアガイドに記載されている語句とピクトグラム（アイコン）の使用傾向について分析をおこなった。OSMにおいても屋内の描画が増えるにつれ、""One feature, one OSM element""が推奨されるように、適切な空間属性の記述が求められてくるであろう。博物館などの文化機関をターゲットとして、現在各館が作成しているフロアガイドの記載語句とピクトグラムを抽出・分析すれば、空間に付与する属性値群の参照例になりえる可能性が高い。
