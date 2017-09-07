@@ -145,6 +145,15 @@ color: dark-nav
             Open presentation slides in a new tab</a>
         </div>
         {% endif %}
+        {% if page.non_speakerdeck %}
+        <div class='prose space-bottom2'>
+          <a
+            target="_blank"
+            title="Open presentation slides on SlideShare"
+            href="{{ page.non_speakerdeck }}">
+            Open presentation slides in a new tab</a>
+        </div>
+        {% endif %}
         <div class='prose space-bottom2'>
           {{content}}
         </div>

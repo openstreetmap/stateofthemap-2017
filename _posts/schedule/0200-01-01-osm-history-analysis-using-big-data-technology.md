@@ -13,7 +13,9 @@ osm: tyr_asd
 room: Main hall
 tags:
   - slot9
-youtube_recording: 
+youtube_recording:
+youtube_time:
+non_speakerdeck: "http://bl.ocks.org/tyrasd/raw/1895193efb9fa49c776dee73ab5d717c/"
 ---
 Historical OpenStreetMap data provides information about the evolution of the map making process of OSM's contributors. This data is for example of crucial importance when assessing OSM data quality in an intrinsic manner (i.e. without comparing it to external data sets), which is an important ongoing research topic.
 
