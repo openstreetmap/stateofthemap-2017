@@ -13,7 +13,8 @@ osm: ratzillas
 room: Main hall
 tags:
   - slot15
-youtube_recording:
+youtube_recording: Vb-CEM8kMxc
+youtube_time: [34,18]
 speakerdeck: sotm2017/day2-1200-hackers-against-natural-disasters
 ---
 Populations living in a high seismic area don't all have the same level of preparation for disasters.

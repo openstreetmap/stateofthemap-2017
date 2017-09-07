@@ -13,7 +13,8 @@ osm: lchai
 room: Main hall
 tags:
   - slot20
-youtube_recording:
+youtube_recording: g2HYYADa8XI
+youtube_time: [1,20]
 speakerdeck: sotm2017/day2-1600-telemetry-global-traffic-and-osm
 ---
 

@@ -13,8 +13,8 @@ osm: mingo23
 room: Room 1
 tags:
   - slot19
-youtube_recording:
-youtube_time:
+youtube_recording: e0u5RMKmQYQ
+youtube_time: [62,17]
 non_speakerdeck: "https://zenodo.org/record/842206#.WaLhqYppzsk"
 ---
 This talk is aimed at providing an overview on the ongoing trends in the academic research about OSM. The talk will focus on three among the many OSM-related research works I have recently carried out as a GIS researcher, which concern three main scientific areas. 1) OSM quality assessment – I will present an open source, automated procedure to measure the completeness and positional accuracy of OSM road networks through comparison against authoritative datasets; 2) Analysis of OSM contribution patterns – I will present an analysis comparing 40 world cities to understand the differences in the degree to which the tag recommendations of the OSM Map Features wiki pages are followed; 3) Use of OSM to derive scientific products – I will present an automated procedure to generate detailed and up-to-date Land Use and Land Cover maps from OSM data. My OSM [wiki profile](https://wiki.openstreetmap.org/wiki/User:Mingo23) lists these academic achievements and all my OSM-related activities.

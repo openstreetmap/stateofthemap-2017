@@ -13,7 +13,8 @@ osm: mvexel
 room: Main hall
 tags:
   - turn12
-youtube_recording:
+youtube_recording: ympOMFWeK4Y
+youtube_time: [29,38]
 speakerdeck: sotm2017/day2-1000-maproulette-one-million-corrections-and-beyond
 ---
 MapRoulette has been around for a few years, and mappers have fixed close to a million things in OSM using it. However, not everyone agrees that MapRoulette and tools like it are good for OSM because, some argue, it encourages 'armchair mapping' rather than on the ground surveying.

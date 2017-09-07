@@ -13,7 +13,8 @@ osm: mvexel
 room: Main hall
 tags:
   - slot5
-youtube_recording:
+youtube_recording: etp92SNhmiM
+youtube_time: [0,35]
 ---
 In April 2014, Telenav successfully launched OpenStreetMap in its US Scout navigation application after months of work improving the map with the help of the OSM community. Over the past year, the company has been working to accomplish the same level of improvements in Canada with the purpose of making the second largest country in the world navigable. This session will explore the people, tools and methods the Telenav map team used to improve the Canada map: OpenStreetCam photos, government data sources, GPS probe data, our Cygnus conflation tool, a mapping team that grew from 3 to 30 people, and finally the continued support and participation of the OSM community.
 

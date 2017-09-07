@@ -13,7 +13,7 @@ osm:
 room: Room 1
 tags:
   - slot5
-youtube_recording: 
+youtube_recording: edXZ8SEJb9w
 speakerdeck: sotm2017/day1-1410-challenges-in-geonames-and-address-extraction
 ---
 "Geoname search and address geocoding are one of the most in-demand location based services. In this talk we focus on extracting geonames and building adress out of OSM and making it available for searching, which is a separate process. With geonames we mean administrative areas down to street level and even POIs. Building addresses along with streets and city names are the core of any geocoding dataset. 

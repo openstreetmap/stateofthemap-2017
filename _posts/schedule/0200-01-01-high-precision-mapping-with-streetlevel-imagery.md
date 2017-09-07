@@ -13,7 +13,8 @@ osm: oini
 room: Main hall
 tags:
   - slot6
-youtube_recording: 
+youtube_recording: etp92SNhmiM
+youtube_time: [31,04]
 speakerdeck: sotm2017/day1-1440-high-precision-mapping-with-streetlevel-imagery
 ---
 Mapillary and OpenStreetCam are crowdsourcing nearly 1 million kilometers of streetlevel imagery per year. This imagery allows detection of highly detailed map features like points of interest, amenities, traffic signs, street names, building levels names and number - all impossible using only satellite imagery.

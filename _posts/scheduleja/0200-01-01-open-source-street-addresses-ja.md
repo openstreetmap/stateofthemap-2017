@@ -13,7 +13,8 @@ osm:
 room: Main hall
 tags:
   - turn14
-youtube_recording:
+youtube_recording: Vb-CEM8kMxc
+youtube_time: [2,35]
 speakerdeck: sotm2017/day2-1130-open-source-street-addresses
 ---
 Most people in the world live on an unnamed road. Lack of street addresses has many negative impacts, and addressing projects are expensive and slow, and often the data from addressing projects is not made available online. Plus codes is an open source project to combine latitude and longitude together with localities or landmarks to provide people with a stable, convenient address.

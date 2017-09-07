@@ -13,8 +13,8 @@ osm: Zverik
 room: Room 1
 tags:
   - turn8
-youtube_recording:
-youtube_time:
+youtube_recording: SbBIvvgblaI
+youtube_time: [9,6]
 speakerdeck: sotm2017/day1-1640-before-maturity-comes-puberty
 ---
 OpenStreetMap has been a playground for developers, analytics, tourists and of course mappers for many years. Having mapped everything around our homes, we've named ourselves craftmappers and taken pride in the most detailed map. That is, if not to look at a neighbouring town which is empty, because no craftmappers live there. Or at less developed countries, which get mapped only when something terrible happens, and HOT volunteers hurry to trace an outdated imagery. We say OSM is better then the commercial alternatives, but is it, from eyes of a regular person? Until recently we missed the important element: commercial interest in updating the map. Now we have it, and nobody is happy. Let's see how and why we are finally catching up to rival maps, and what do we have to overcome to have a truly mature map.

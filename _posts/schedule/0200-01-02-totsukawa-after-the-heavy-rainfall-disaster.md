@@ -13,8 +13,7 @@ osm: nissyyu
 room: Room 1
 tags:
   - slot7
-youtube_recording:
-youtube_time:
+youtube_recording: s9tVoTrgEHE
 speakerdeck: sotm2017/day1-1510-totsukawa-after-the-heavy-rainfall-disaster
 ---
 The presenter reported the heavy rainfall disaster occurred in the mountainous area of Nara, September 2011 and OpenStreetMap activities related with the disaster at SotM 2012 in Tokyo. The disaster area located in Kii Peninsula, Southwestern Honshu, and mainly forest area and the heavy rain by the typhoon Talas brought the large-scale landslides and the floods in 2011. The recovery from the disaster and the reconstruction of the infrastructure are progressed in these 5 years. On the other hand, the regional population is shrinking continuously and the depopulated areas are expanding. I would like to discuss the potential, limitation of OSM and local people needs to OSM in the Japanese remote area suffered the disaster.

@@ -13,7 +13,8 @@ osm: overflorian
 room: Main hall
 tags:
   - slot7
-youtube_recording: 
+youtube_recording: etp92SNhmiM
+youtube_time: [60,14]
 ---
 We help you create the public transport map of your city.
 1. Collect bus stops with our super-easy-to-use Jungle Bus Android app

@@ -13,7 +13,8 @@ osm: ilasolthah
 room: Room 1
 tags:
   - slot20
-youtube_recording:
+youtube_recording: "_FwUrX4tCaY"
+youtube_time: [4,30]
 speakerdeck: sotm2017/day2-1600-effort-of-contribution-of-osm-niger
 ---
 During this session it will be a question of presenting the OSM community of Niger, the efforts and the contributions of community in the teaching and the promotion of the OSM project and  open data. This session will also be an opportunity to present the various activities of this community at the national level and in sub-Saharan Francophone Africa.

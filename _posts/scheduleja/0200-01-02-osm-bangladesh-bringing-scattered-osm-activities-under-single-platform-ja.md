@@ -13,7 +13,8 @@ osm: aHaSaN
 room: Room 1
 tags:
   - turn14
-youtube_recording:
+youtube_recording: nMxSDjKiZ-M
+youtube_time: [4,0]
 speakerdeck: sotm2017/day2-1130-osm-bangladesh-bringing-scattered-osm-activities-under-single-platform
 ---
 My session will be based on three discussion topics. Firstly, the uneven journey of OpenStreetMap in Bangladesh and tackling the obstacles. Secondly, the ongoing OSM activities in Bangladesh by different government and non government agencies, chapters and small communities. And lastly, how to integrate the scattered OSM group and activities under a single platform.

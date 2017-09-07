@@ -13,7 +13,8 @@ osm: karida
 room: Main hall
 tags:
   - slot11
-youtube_recording:
+youtube_recording: ympOMFWeK4Y
+youtube_time: [1,19]
 speakerdeck: sotm2017/day2-0930-taking-on-responsibility-for-osm-data
 ---
 OpenStreetMap is map data created by people like you and free to use under an open license. That’s the idea behind OSM, and it does not limit the use to hobbyists and geeks, it also allows corporations the use for commercial purposes. That’s great!
