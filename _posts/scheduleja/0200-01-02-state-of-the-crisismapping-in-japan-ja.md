@@ -14,6 +14,7 @@ room: Room 1
 tags:
   - turn21
 youtube_recording:
+speakerdeck: sotm2017/day2-1630-state-of-the-crisismapping-in-japan
 ---
 In 2011, a big earthquake and tsunami struck Japan. We have learned, self-help, mutual assistance and public aid are basic self-reliant support system in the community. Map data is very useful information for their activities. Near the future, next serious natural disaster will come to Japan. We should make more resilient crisis mappers community in Japan. I would like to share about state of the Japanese crisis mappers community.
 

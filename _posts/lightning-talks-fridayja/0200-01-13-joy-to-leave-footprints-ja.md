@@ -10,6 +10,7 @@ twitter:
 osm: taki3hira
 time: friday
 room: Main hall
+speakerdeck: sotm2017/day1-1200-lt-zu-ji-wocan-suxi-bi-matupingufalsele-sisa-joy-to-leave-footprints
 ---
 "OpenStreetMapに出会って約3年。
 既存の地図を使うだけでなく、自ら地理データを作成できる！

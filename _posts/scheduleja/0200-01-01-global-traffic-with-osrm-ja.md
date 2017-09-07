@@ -14,6 +14,7 @@ room: Main hall
 tags:
   - turn20
 youtube_recording:
+speakerdeck: sotm2017/day2-1600-telemetry-global-traffic-and-osm
 ---
 [OSRM](www.project-osrm.org) is a high-performance navigation engine designed to work with OpenStreetMap data. OSRM is capable of calculating long-distance (cross-country) shortest-path routes on a planet sized datasets in milliseconds.
 

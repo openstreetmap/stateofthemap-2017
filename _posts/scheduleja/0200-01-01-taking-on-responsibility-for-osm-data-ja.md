@@ -14,6 +14,7 @@ room: Main hall
 tags:
   - turn11
 youtube_recording:
+speakerdeck: sotm2017/day2-0930-taking-on-responsibility-for-osm-data
 ---
 OpenStreetMap is map data created by people like you and free to use under an open license. That’s the idea behind OSM, and it does not limit the use to hobbyists and geeks, it also allows corporations the use for commercial purposes. That’s great!
 But aren’t there any drawbacks? What makes us opt for proprietary map providers, even if there is a better free alternative, that we love?
