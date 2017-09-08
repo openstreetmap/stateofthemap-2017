@@ -15,7 +15,7 @@ tags:
   - turn21
 youtube_recording: g2HYYADa8XI
 youtube_time: [28,45]
-non_speakerdeck: "https://docs.google.com/presentation/d/1xxFRhqzofy7lcRWX-doRlxAnQB130ERvyWPT-5_ezlY/edit?ts=5997ae75#slide=id.g1fc0e10775_0_10"
+slides: "https://docs.google.com/presentation/d/1xxFRhqzofy7lcRWX-doRlxAnQB130ERvyWPT-5_ezlY/edit?ts=5997ae75#slide=id.g1fc0e10775_0_10"
 ---
 OpenStreetMap Carto is osm.org’s default stylesheet. This project is the most active and complex open source map style and where many contributors first learn how to make maps.
 

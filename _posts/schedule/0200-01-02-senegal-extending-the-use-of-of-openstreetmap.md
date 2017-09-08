@@ -15,7 +15,7 @@ tags:
   - slot11
 youtube_recording: gV5tmr7Efsk
 youtube_time: [18,43]
-speakerdeck: sotm2017/day2-0930-senegal-extending-the-use-of-of-openstreetmap
+slides: https://speakerdeck.com/sotm2017/day2-0930-senegal-extending-the-use-of-of-openstreetmap
 ---
 This session will be a sharing of experiences on extending the use of OpenStreetMap in Senegal and the various partnerships established with state institutions, universities and research institutes, vocational and technical training and local authorities.
 

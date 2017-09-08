@@ -15,7 +15,7 @@ tags:
   - slot17
 youtube_recording: nhLyrJOcP5k
 youtube_time: [0,13]
-speakerdeck: sotm2017/day2-1400-jing-du-todong-jing-falseyue-jian-matupingupatei
+slides: https://speakerdeck.com/sotm2017/day2-1400-jing-du-todong-jing-falseyue-jian-matupingupatei
 ---
 京都と東京に世界遺産のマッピングパーティーを紹介します。
 

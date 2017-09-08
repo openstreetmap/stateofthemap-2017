@@ -15,7 +15,7 @@ tags:
   - slot13
 youtube_recording: gV5tmr7Efsk
 youtube_time: [75,1]
-speakerdeck: sotm2017/day2-1030-vehicle-position-visualization-project-in-heavy-snow-zone
+slides: https://speakerdeck.com/sotm2017/day2-1030-vehicle-position-visualization-project-in-heavy-snow-zone
 ---
 In the Aizu area snow removing vehicles are essential during the winter season. The main operator would receive telephone inquiries related to snow removal from citizens, confirm with their workforce, and make a call back. By mapping the position of the snow removal vehicle online and in real time we can answer these enquiries much more efficiently.
 
