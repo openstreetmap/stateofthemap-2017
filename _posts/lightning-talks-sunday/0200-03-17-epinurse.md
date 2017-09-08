@@ -10,6 +10,8 @@ twitter:
 osm: Skanbara
 time: sunday
 room: Main hall
+youtube_recording: 87D7CpsAWn8
+youtube_time: [56,12]
 slides: https://speakerdeck.com/sotm2017/day1-1200-lt-epinurse-participatory-monitoring-for-health-security-on-disaster
 ---
 Our aim is to develop a disaster risk reduction method to ensure health security in disaster prone communities. Collaborating with local Nepali nurses, named as EpiNurses (Epidemiology+Nurse), who conduct a participatory monitoring by using ICT tool kit. We would integrate the human and other dimensions for risk identification through improved health, which in a way challenges the conventional participatory monitoring and mapping system which require real-time or near real-time, population-based, statistical alarms to alert to unusual activity.

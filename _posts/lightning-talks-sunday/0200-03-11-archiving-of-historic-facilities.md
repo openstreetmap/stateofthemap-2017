@@ -10,6 +10,8 @@ twitter:
 osm: tm3594
 time: sunday
 room: Main hall
+youtube_recording: IlWGtlGU2Tc
+youtube_time: [0,49]
 slides: https://speakerdeck.com/sotm2017/day3-0930-lt-archiving-of-33-historic-facilities-with-multilayered-geo-open-data
 ---
 In the Aizu area where there is Aizuwakamatsu City, serialized historical religious facilities are scattered.

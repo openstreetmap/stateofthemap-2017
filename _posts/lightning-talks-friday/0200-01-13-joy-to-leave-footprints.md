@@ -10,6 +10,8 @@ twitter:
 osm: taki3hira
 time: friday
 room: Main hall
+youtube_recording: 87D7CpsAWn8
+youtube_time: [16,10]
 slides: https://speakerdeck.com/sotm2017/day1-1200-lt-zu-ji-wocan-suxi-bi-matupingufalsele-sisa-joy-to-leave-footprints
 ---
 "OpenStreetMapに出会って約3年。
