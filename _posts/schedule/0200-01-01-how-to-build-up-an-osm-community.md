@@ -15,7 +15,7 @@ tags:
   - slot2
 youtube_recording: PvMhlAcg8n4
 youtube_time: [82,40]
-speakerdeck: sotm2017/day1-1100-how-to-build-up-an-osm-community
+slides: https://speakerdeck.com/sotm2017/day1-1100-how-to-build-up-an-osm-community
 ---
 In 2012 not a lot of people were interested in OpenStreetMap in the relatively small city of Tirana, the capital of Albania. In my talk I will share the story of how , a small but dedicated group of people, jump started the community in a small country like Albania and what other small cities and countries should avoid during their first steps in developing an OpenStreetMap community in similar conditions. Most important I will share tips and tricks on how to keep the mapathon spirit alive for a long time after the first enthusiastic steps, with the goal that our shared experience will help other communities to make the first steps or grow even further. Also another topic that influence the health of a community is also the aspect of diversity and inclusion for which I will talk a bit on how to keep them contributing and motivated.
 

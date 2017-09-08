@@ -15,7 +15,7 @@ tags:
   - slot12
 youtube_recording: gV5tmr7Efsk
 youtube_time: [42,50]
-speakerdeck: sotm2017/day2-1000-the-sri-lankan-government-and-osm
+slides: https://speakerdeck.com/sotm2017/day2-1000-the-sri-lankan-government-and-osm
 ---
 I am interested to inspire the OSM activities in Sri Lanka and how the government approaches to make flexible for me to implement the OSM system.
 There are number of items will be focused to address as follow

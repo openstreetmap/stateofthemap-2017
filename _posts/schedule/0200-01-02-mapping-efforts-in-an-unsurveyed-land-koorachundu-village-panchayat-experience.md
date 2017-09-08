@@ -15,7 +15,7 @@ tags:
   - slot17
 youtube_recording: e0u5RMKmQYQ
 youtube_time: [5,10]
-speakerdeck: sotm2017/day2-1400-mapping-efforts-in-an-unsurveyed-land-koorachundu-village-panchayat-experience
+slides: https://speakerdeck.com/sotm2017/day2-1400-mapping-efforts-in-an-unsurveyed-land-koorachundu-village-panchayat-experience
 ---
 Local governments are the custodians of asset registers which contain the details of basic infrastructure including road networks and other public facilities they maintain. Central govt guidelines to formulate projects requires GIS to be applied for the sake of accuracy and precision. But the state of affairs at Koorachundu Village Panchayat (local government) is that we have no cadastral map, no GIS. So, There is a need of baseline GeoData for Developmental Planning and Implementation, administration purposes, and in case of emergencies without hassle.
 

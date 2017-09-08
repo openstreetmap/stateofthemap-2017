@@ -10,6 +10,6 @@ twitter:
 osm: K_Sakanoshita
 time: sunday
 room: Main hall
-speakerdeck: sotm2017/day3-0930-lt-zhu-guo-falselang-man-woosmdefa-xin-siyou
+slides: https://speakerdeck.com/sotm2017/day3-0930-lt-zhu-guo-falselang-man-woosmdefa-xin-siyou
 ---
 京都、大阪など、関西で行われているマッピングパーティの活動報告を通して、諸国に埋もれている浪漫をOSMで世界に発信する意義を話します

@@ -14,7 +14,7 @@ room: Room 1
 tags:
   - slot6
 youtube_recording: mnTJSI9AMxw
-speakerdeck: sotm2017/day1-1440-one-road-goes-a-long-way-measuring-the-impact-of-maps-on-fighting-fgm-in-tanzania
+slides: https://speakerdeck.com/sotm2017/day1-1440-one-road-goes-a-long-way-measuring-the-impact-of-maps-on-fighting-fgm-in-tanzania
 ---
 In 2015 we set up a volunteer project to map roads & villages in rural Tanzania, focusing on fighting female genital mutilation (FGM) in the Serengeti district. One year later, Crowd2Map volunteers have mapped >42K km of roads, >700K buildings, and identified hundreds of villages. Some of these were done in real time during the cutting season, to urgently find & reach specific reported FGM cases. Most importantly, the Mugumu Safe House saved 2257 girls this year; 1076 girls were still cut, down from 3700 girls last year.
  
