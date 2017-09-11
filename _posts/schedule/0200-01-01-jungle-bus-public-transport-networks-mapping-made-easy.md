@@ -8,13 +8,14 @@ audience: "(1a) Data contributors: Community"
 audience_full: "(1a) Data contributors: Community, (1b) Data contributors: Public administration (open data, data feedback...), (1c) Data contributors: Companies (data feedback, driven by need of data...), (2a) Data users: Commercial, (2b) Data users: Non-profit and public service"
 name: Florian Lainez
 organization: OpenStreetMap France
-twitter: 
+twitter:
 osm: overflorian
 room: Main hall
 tags:
   - slot7
 youtube_recording: etp92SNhmiM
 youtube_time: [60,14]
+slides: "https://speakerdeck.com/overflorian/jungle-bus-public-transport-networks-mapping-made-easy-number-sotm2017"
 ---
 We help you create the public transport map of your city.
 1. Collect bus stops with our super-easy-to-use Jungle Bus Android app
