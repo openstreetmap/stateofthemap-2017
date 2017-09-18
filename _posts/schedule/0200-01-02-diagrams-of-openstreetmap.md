@@ -20,3 +20,5 @@ A picture is worth a thousand words, and even more if it's a diagram! This talk 
 
 Some diagrams are technical in nature, many are attempting to simplify tech topics, but some are entirely non-technical, instead showing organisational or even political aspects of OpenStreetMap. Some diagrams are created by Harry (some especially for this talk), some by other people. Some have seen collaboration and iterations over many years.
 
+[Slides & transcript](http://harrywood.co.uk/blog/2017/09/18/diagrams-of-openstreetmap/)
+
