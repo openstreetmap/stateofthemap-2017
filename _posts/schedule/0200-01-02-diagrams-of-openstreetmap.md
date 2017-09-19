@@ -15,6 +15,7 @@ tags:
   - slot9
 youtube_recording: SbBIvvgblaI
 youtube_time: [39,12]
+slides: "https://speakerdeck.com/sotm2017/day1-1640-the-diagrams-of-openstreetmap"
 ---
 A picture is worth a thousand words, and even more if it's a diagram! This talk will take a tour through the _diagrams of OpenStreetMap_ on a quest to find a picture which shows the big picture.
 
